@@ -8,4 +8,4 @@ nowa sekcja 2
 nowa sekcja 3
 nowa sekcja 4
 mechatronika
-tekst dopisany na lab10
+tekst edytowany na gałęzi master
